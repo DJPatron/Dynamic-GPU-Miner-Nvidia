@@ -1,7 +1,7 @@
 ccminer-dyn Dynamic Nvidia GPU miner
 ========================
 
-This fork is only meant to be used to mine Dynamic (DYN) with Argon2d algorithm.
+This fork is only meant to be used to mine Alterdot (ADOT) with Argon2d16000 algorithm.
 
 releases: https://github.com/duality-solutions/Dynamic-GPU-Miner-Nvidia/releases
 
